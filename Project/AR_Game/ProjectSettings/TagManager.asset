@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - canvas1
+  - Room
+  - Monster
+  - BedMenu
+  - Bed200
+  - Bed225
+  - Bed250
+  - Canvas3D
+  - Floor
+  - ARCam
+  - Canv2
+  - Canv3
+  - Canv4
+  - Canv5
+  - Canvas3DChairs
+  - Chair320
+  - Chair345
+  - Chair370
+  - Canv6
+  - Canv7
+  - Canv8
+  - Canvas3DBooks
+  - Book400
+  - Book450
+  - MoveButtons
+  - Canv1
+  - PlaneDetector
+  - Audio1
+  - DoorCanvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
